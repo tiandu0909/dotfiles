@@ -1,0 +1,128 @@
+ls
+ls -la
+javac SimpleThreads.java 
+javac SimpleThreads.java 
+javac SimpleThreads.java 
+java SimpleThreads.java
+java SimpleThreads
+ls
+ls -la
+javac DeadLock.java 
+javac DeadLock.java 
+javac DeadLock.java 
+java DeadLock
+java DeadLock
+java DeadLock
+javac DeadLock.java 
+java DeadLock
+java DeadLock
+java DeadLock
+java DeadLock
+java DeadLock
+ls
+ls -la
+exit
+ls
+javac SafeLock.java 
+javac SafeLock.java 
+java SafeLock
+mkdir Executors
+cd Executors
+ls
+ls
+ls -la
+ls
+pwd
+ls -la
+tree .
+tree .
+ls
+find . -name "pom*"
+cd ~
+ls
+ls -a
+cd .m2
+ls
+ls -la
+cd
+cd Github/
+ls
+ls FunctionalProgrammingInScala/
+ls
+cd FunctionalProgrammingInScala/n
+cd FunctionalProgrammingInScala/
+ls
+clear
+clear
+ls -la
+mkdir src/main/scala
+ls
+mrdir src
+mkdir src
+cd src
+mkdir main
+cd main/
+mkdir scala
+mvn test
+mvn compile
+ls
+chomd seefor 
+chmod 755 seefor
+;
+l
+ls
+ls -la
+./seefor first another more
+ls
+rm a.out 
+cc Testing.c 
+ls
+./a.out 
+ls
+rm a.out 
+cc ftoc.c 
+ls
+./a.out 
+ls
+rm a.out 
+cc forLoop.c 
+./a.out 
+rm a.out 
+cc forLoop.c 
+ls
+./a.out 
+ls
+rm *
+ls
+ls -la
+mkdir chapter01
+cd chapter01/
+ls
+cc input.c 
+ls
+./a.out 
+ls
+cc characterCounting.c 
+./a.out 
+ls
+ls -la
+cc array.c 
+cc array.c
+ls
+ls-la
+ls -la
+cat array.c | ./a.out 
+rm a.out 
+cc array.c 
+cat array.c | ./a.out 
+cat array.c | ./a.out 
+rm a.out
+cc array.c 
+ls
+cat array.c | ./a.out 
+cc power.c 
+cc power.c 
+cc power.c 
+a.out
+ls
+./a.out 

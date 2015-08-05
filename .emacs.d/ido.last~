@@ -1,0 +1,223 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/tian.du/Github/spark-certification/" . "Spark/")
+ ("/Users/tian.du/Github/java-threed/" . "UserThreadInterrupted/")
+ ("/Users/tian.du/Github/" . "spark-certification/")
+ ("/Users/tian.du/OpenXGitHub/suanpan-aggregation/src/main/scala/org/openx/suanpan/" . "event/")
+ ("/Users/tian.du/OpenXGitHub/suanpan-aggregation/src/main/scala/org/openx/" . "suanpan/")
+ ("/Users/tian.du/OpenXGitHub/suanpan-aggregation/src/main/scala/org/" . "openx/")
+ ("/Users/tian.du/OpenXGitHub/suanpan-aggregation/src/main/scala/" . "org/")
+ ("/Users/tian.du/OpenXGitHub/suanpan-aggregation/src/main/" . "scala/")
+ ("/Users/tian.du/.emacs.d/" . "auto-save-list/")
+ ("/Users/tian.du/OpenXGitHub/suanpan-aggregation/src/test/scala/org/openx/" . "suanpan/")
+ ("/Users/tian.du/OpenXGitHub/suanpan-aggregation/src/test/scala/org/apache/spark/" . "streaming/")
+ ("/Users/tian.du/OpenXGitHub/suanpan-aggregation/src/test/scala/org/apache/" . "spark/")
+ ("/Users/tian.du/OpenXGitHub/suanpan-aggregation/src/test/scala/org/" . "openx/")
+ ("/Users/tian.du/OpenXGitHub/suanpan-aggregation/src/test/scala/" . "org/")
+ ("/Users/tian.du/OpenXGitHub/suanpan-aggregation/src/test/" . "scala/")
+ ("/Users/tian.du/OpenXGitHub/suanpan-aggregation/src/" . "main/")
+ ("/Users/tian.du/OpenXGitHub/suanpan-aggregation/" . "src/")
+ ("/Users/tian.du/OpenXGitHub/" . "suanpan-aggregation/")
+ ("/Users/" . "tian.du/")
+ ("/Users/tian.du/OpenX/suanpan-aggregation/src/test/scala/org/openx/" . "suanpan/")
+ ("/Users/tian.du/OpenX/suanpan-aggregation/src/test/scala/org/" . "openx/")
+ ("/Users/tian.du/OpenX/suanpan-aggregation/src/test/scala/" . "org/")
+ ("/Users/tian.du/OpenX/suanpan-aggregation/src/test/" . "scala/")
+ ("/Users/tian.du/OpenX/suanpan-aggregation/src/main/scala/org/openx/suanpan/" . "event/")
+ ("/Users/tian.du/OpenX/suanpan-aggregation/src/main/scala/org/openx/" . "suanpan/")
+ ("/Users/tian.du/OpenX/suanpan-aggregation/src/main/scala/org/" . "openx/")
+ ("/Users/tian.du/OpenX/suanpan-aggregation/src/main/scala/" . "org/")
+ ("/Users/tian.du/OpenX/suanpan-aggregation/src/main/" . "scala/")
+ ("/Users/tian.du/OpenX/suanpan-aggregation/src/" . "test/")
+ ("/Users/tian.du/OpenX/suanpan-aggregation/" . "src/")
+ ("/Users/tian.du/OpenX/" . "suanpan-aggregation/")
+ ("/Users/tian.du/Documents/scala-practice/Functional Programming Principles in Scala by Martin Odersky/src/" . "week5/")
+ ("/Users/tian.du/Documents/scala-practice/Functional Programming Principles in Scala by Martin Odersky/" . "src/")
+ ("/" . "Users/")
+ ("/Users/tian.du/Documents/Note/" . "kernel/")
+ ("/Users/tian.du/Documents/scala-practice/FunctionalProgrammingInScala/" . "chapter03/")
+ ("/Users/tian.du/Documents/scala-practice/" . "Functional Programming Principles in Scala by Martin Odersky/")
+ ("/Users/tian.du/Documents/" . "java-practice/")
+ ("/Users/tian.du/" . "Github/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/tian.du/Github/spark-certification/"
+ "/Users/tian.du/.emacs.d/"
+ "/Users/tian.du/Github/java-threed/"
+ "/Users/tian.du/Github/java-threed/UserThreadInterrupted/"
+ "/Users/tian.du/OpenXGitHub/suanpan-aggregation/src/main/scala/org/openx/suanpan/event/"
+ "/Users/tian.du/OpenXGitHub/suanpan-aggregation/src/test/scala/org/openx/suanpan/"
+ "/Users/tian.du/OpenXGitHub/suanpan-aggregation/"
+ "/Users/tian.du/Documents/"
+ "/Users/tian.du/OpenXGitHub/suanpan-aggregation/src/main/scala/org/openx/suanpan/"
+ "/Users/tian.du/OpenXGitHub/suanpan-aggregation/src/main/scala/org/openx/suanpan/aggregation/"
+ "/Users/tian.du/OpenX/suanpan-aggregation/src/test/scala/org/openx/suanpan/"
+ "/Users/tian.du/OpenX/suanpan-aggregation/src/main/scala/org/openx/suanpan/event/"
+ "/Users/tian.du/OpenX/suanpan-aggregation/"
+ "/Users/tian.du/Documents/scala-practice/Functional Programming Principles in Scala by Martin Odersky/src/week5/"
+ "/Users/tian.du/Documents/scala-practice/Functional Programming Principles in Scala by Martin Odersky/src/week4/"
+ "/Users/tian.du/Documents/scala-practice/Functional Programming Principles in Scala by Martin Odersky/src/lecture4_2/"
+ "/Users/tian.du/Documents/Note/"
+ "/Users/tian.du/Documents/scala-practice/Functional Programming Principles in Scala by Martin Odersky/src/lecture3_3/"
+ "/Users/tian.du/Documents/scala-practice/Functional Programming Principles in Scala by Martin Odersky/src/lecture3_3/List.scala/"
+ "/Users/tian.du/Documents/scala-practice/FunctionalProgrammingInScala/chapter03/"
+ "/Users/tian.du/Documents/scala-practice/Functional Programming Principles in Scala by Martin Odersky/src/lecture3_2/"
+ "/Users/tian.du/OpenX/suanpan-aggregation/src/main/scala/org/openx/suanpan/persistence/"
+ "/Users/tian.du/Documents/scala-learning/"
+ "/Users/tian.du/Documents/scala-practice/Functional Programming Principles in Scala by Martin Odersky/src/lecture3_1/"
+ "/Users/tian.du/Documents/scala-practice/FunctionalProgrammingInScala/chapter02/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "spark.org"
+ "init.el"
+ "java-thread-note.org"
+ "TestInterrupted.java"
+ "GCDRunnable.java"
+ "ThreadJoinTest.java"
+ "TestRunnable.java"
+ "TestExecutor.java"
+ "TestThread.java"
+ "UserOrDaemon.java"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/tian.du/Github/spark-certification/" (21915 5918 0 0) "spark.org~" "spark.org" "spark-training/" "Spark/" "../" "./")
+
+ ("/Users/tian.du/.emacs.d/" (21915 5861 0 0) "themes/" "init.el~" "init.el" "ido.last~" "ido.last" "eshell/" "elpa/" "auto-save-list/" "../" "./")
+
+ ("/Users/tian.du/Github/java-threed/" (21915 171 0 0) "UserThreadInterrupted/" "UserOrDaemonRunnable/" "UserOrDaemonExecutor/" "UserOrDaemon/" "ThreadJoinTest.java~" "ThreadJoinTest.java" "ThreadJoinTest.class" "ThreadJoinTest$SearchOneShotThreadJoin.class" "ThreadJoinTest$SearchOneShotThreadJoin$1.class" "TestRunnable.java~" "TestRunnable.java" "TestRunnable.class" "TestExecutor$1.class" "java-thread-note.org~" "java-thread-note.org" "../" "./")
+
+ ("/Users/tian.du/Github/spark-certification/Spark/" (21915 5861 0 0) "spark/" "joinUsingSpark.scala~" "joinUsingSpark.scala" "data/" "../" "./")
+
+ ("/Users/tian.du/Github/" (21915 1136 0 0) "spark-certification/" "scala-learning/" "java-threed/" ".DS_Store" "../" "./")
+
+ ("/Users/tian.du/" (21914 62749 0 0) "VirtualBox VMs/" "settings.xml" "PycharmProjects/" "Public/" "Pictures/" "opt/" "OpenXGitHub/" "OpenX/" "Music/" "Movies/" "Library/" "IdeaProjects/" "Google Drive/" "Github/" "emacs-note/" "Downloads/" "Documents/" "Desktop/" "cloudera/" "brew.sh" "bin/" "Applications/" ".zshrc.bak" ".zshrc-e" ".zsh_history" ".zsh-update" ".zlogout.backup" ".zlogout" ".zlogin.backup" ".zlogin" ".zhistory" ".zcompdump.zwc" ".zcompdump-tian-du-openx-5.0.5" ".zcompdump-MBP-OP-76-5.0.5" ".zcompdump" ".wgetrc" ".viminfo" ".Trash/" ".swtend-colorpicker-recent" ".subversion/" ".ssh/" ".spark_history" ".screenrc" ".scala_history" ".sbt/" ".PyCharm40/" ".pki/" ".osx" ".matplotlib/" ".MacOSX/" ".m2/" ".lesshst" ".ivy2/" ".inputrc" ".IdeaIC14/" ".idea-build/" ".hushlogin" ".hgignore_global" ".hgignore" ".gvimrc" ".gitignore" ".gitconfig.backup" ".gitconfig" ".gitattributes" ".git-completion.bash" ".gdbinit" ".functions" ".fasd-init-bash" ".fasd" ".exports" ".erlang.cookie" ".emacs.d/" ".editorconfig" ".DS_Store" ".curlrc" ".cups/" ".ctags" ".CFUserTextEncoding" ".centrify/" ".cache/" ".boot2docker/" ".bashrc" ".bash_prompt" ".bash_profile~" ".bash_profile" ".bash_history" ".atom/" ".android/" ".aliases" ".activator/" ".account" "../" "./")
+
+ ("/Users/tian.du/Github/java-threed/UserThreadInterrupted/" (21914 51119 0 0) "TestInterrupted.java~" "TestInterrupted.java" "TestInterrupted.class" "GCDRunnable.java~" "GCDRunnable.java" "GCDRunnable.class" "../" "./")
+
+ ("/Users/tian.du/Documents/" (21913 43073 0 0) "workspace/" "TODO.org" "terminal/" "spark-practice/" "spark-kafka.org~" "spark-kafka.org" "scala-practice/" "runtime-EclipseApplication/" "repository/" "python-practice/" "Note/" "java-practice/" "hive-practice/" "hadoop-practice/" "Git/" "erlang-practice/" "Documents.iml" "Digital Editions/" "Books/" ".parallels-vm-directory/" ".localized" ".idea/" ".DS_Store" " C/" "../" "./")
+
+ ("/Users/tian.du/OpenXGitHub/suanpan-aggregation/src/test/scala/org/openx/suanpan/" (21910 8935 0 0) "WordCountStatefulTest.scala" "WordCountStateful.scala" "WordCountSparkStreamingTest.scala" "WordCount.scala" "UnitSpec.scala~" "UnitSpec.scala" "SuanpanSparkStreamingTest.scala" "Suanpan.scala" "SparkStreamingSpec.scala" "SparkSpec.scala" "NtrLwesEventHandlerTest.scala~" "NtrLwesEventHandlerTest.scala" "HoxEventHandlerTest.scala~" "HoxEventHandlerTest.scala" "EventKeyPartitioner.scala" "ConfigurationTest.scala" "../" "./")
+
+ ("/Users/tian.du/Documents/java-practice/" (21896 12193 0 0) "Word Count Game/" "RemoteSystemsTempFiles/" "oca-preparation/" "effective-java-examples/" ".metadata/" ".DS_Store" "../" "./")
+
+ ("/Users/tian.du/OpenXGitHub/suanpan-aggregation/" (21909 38357 0 0) "target/" "suanpan-spark.iml" "src/" "README" "pom.xml" "NEWS" "Makefile.am.local" "fw-pkgin/" "configure.ac.local" "ChangeLog" "bootstrap" "AUTHORS" ".settings/" ".project" ".metadata/" ".idea/" ".gitignore" ".git/" ".classpath" "../" "./")
+
+ ("/Users/tian.du/OpenXGitHub/" (21909 31393 0 0) "suanpan-aggregation/" "RemoteSystemsTempFiles/" "odfi-feeds/" "grid/" ".metadata/" ".DS_Store" "../" "./")
+
+ ("/Users/tian.du/Documents/scala-learning/" (21909 28038 0 0) "Values.scala~" "ValueAndVar.scala~" "ValueAndVar.scala" "README.md" ".git/" "../" "./")
+
+ ("/Users/tian.du/OpenXGitHub/suanpan-aggregation/src/main/scala/org/openx/suanpan/event/" (21908 11580 0 0) "NtrLwesEventHandler.scala" "LwesEventHandlerComponent.scala" "HoxLwesEventHandler.scala" "EventHandlerComponent.scala" "../" "./")
+
+ ("/Users/tian.du/OpenXGitHub/suanpan-aggregation/src/main/scala/org/openx/suanpan/" (21906 12375 0 0) "streaming/" "SparkApplication.scala" "persistence/" "event/" "configuration/" "aggregation/" "../" "./")
+
+ ("/Users/tian.du/OpenXGitHub/suanpan-aggregation/src/main/scala/org/openx/suanpan/aggregation/" (21906 12120 0 0) "SparkAggregationComponent.scala" "AggregationComponent.scala" "../" "./")
+
+ ("/Users/tian.du/OpenXGitHub/suanpan-aggregation/src/main/scala/org/openx/" (21905 56501 0 0) "suanpan/" "../" "./")
+
+ ("/Users/tian.du/OpenXGitHub/suanpan-aggregation/src/main/scala/org/" (21905 56501 0 0) "openx/" "../" "./")
+
+ ("/Users/tian.du/OpenXGitHub/suanpan-aggregation/src/main/scala/" (21905 56501 0 0) "org/" "../" "./")
+
+ ("/Users/tian.du/OpenXGitHub/suanpan-aggregation/src/main/" (21905 56501 0 0) "scala/" "../" "./")
+
+ ("/Users/tian.du/.emacs.d/auto-save-list/" (21906 9693 0 0) ".saves-51080-mbp-op-76.belkin~" ".saves-50592-mbp-op-76.belkin~" ".saves-46953-mbp-op-76.belkin~" "../" "./")
+
+ ("/Users/tian.du/OpenXGitHub/suanpan-aggregation/src/test/scala/org/openx/" (21905 56501 0 0) "suanpan/" "../" "./")
+
+ ("/Users/tian.du/OpenXGitHub/suanpan-aggregation/src/test/scala/org/apache/spark/streaming/" (21905 56501 0 0) "ClockWrapper.scala" "../" "./")
+
+ ("/Users/tian.du/OpenXGitHub/suanpan-aggregation/src/test/scala/org/apache/spark/" (21905 56501 0 0) "streaming/" "../" "./")
+
+ ("/Users/tian.du/OpenXGitHub/suanpan-aggregation/src/test/scala/org/apache/" (21905 56501 0 0) "spark/" "../" "./")
+
+ ("/Users/tian.du/OpenXGitHub/suanpan-aggregation/src/test/scala/org/" (21905 56501 0 0) "openx/" "apache/" "../" "./")
+
+ ("/Users/tian.du/OpenXGitHub/suanpan-aggregation/src/test/scala/" (21905 56501 0 0) "org/" "../" "./")
+
+ ("/Users/tian.du/OpenXGitHub/suanpan-aggregation/src/test/" (21905 56501 0 0) "scala/" "resources/" "../" "./")
+
+ ("/Users/tian.du/OpenXGitHub/suanpan-aggregation/src/" (21905 56501 0 0) "test/" "main/" "../" "./")
+
+ ("/Users/tian.du/OpenX/suanpan-aggregation/" (21905 55226 0 0) "target/" "suanpan-spark.iml" "src/" "README" "pom.xml" "NEWS" "Makefile.am.local" "fw-pkgin/" "configure.ac.local" "ChangeLog" "bootstrap" "AUTHORS" ".metadata/" ".idea/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/tian.du/OpenX/suanpan-aggregation/src/main/scala/org/openx/suanpan/event/" (21905 40144 0 0) "NtrLwesEventHandler.scala" "LwesEventHandlerComponent.scala" "HoxLwesEventHandler.scala" "EventHandlerComponent.scala" "../" "./")
+
+ ("/Users/tian.du/OpenX/suanpan-aggregation/src/test/scala/org/openx/suanpan/" (21905 55980 0 0) "WordCountStatefulTest.scala" "WordCountStateful.scala" "WordCountSparkStreamingTest.scala" "WordCount.scala" "UnitSpec.scala~" "UnitSpec.scala" "SuanpanSparkStreamingTest.scala" "Suanpan.scala" "SparkStreamingSpec.scala" "SparkSpec.scala" "HoxLwesEventHandlerTest.scala~" "EventKeyPartitioner.scala" "ConfigurationTest.scala" "../" "./")
+
+ ("/Users/tian.du/.emacs.d/elpa/" (21905 57709 0 0) "yasnippet-20150415.244/" "windata-20080412.1455/" "tree-mode-20150227.216/" "scala-outline-popup-readme.txt" "scala-mode2-20150617.2350/" "sbt-mode-20150616.1207/" "s-20140910.334/" "popup-20150626.711/" "mvn-20131227.2312/" "magit-20150608.1139/" "magit-1.4.2/" "git-rebase-mode-20150122.1114/" "git-commit-mode-20150330.1048/" "ensime-20150628.1225/" "dirtree-20140129.832/" "dash-20150611.922/" "company-20150624.334/" "auto-complete-20150618.1949/" "archives/" "../" "./")
+
+ ("/Users/tian.du/.emacs.d/elpa/mvn-20131227.2312/" (21905 57710 0 0) "mvn.elc" "mvn.el" "mvn-pkg.elc" "mvn-pkg.el" "mvn-autoloads.el~" "mvn-autoloads.el" "../" "./")
+
+ ("/Users/tian.du/OpenX/suanpan-aggregation/src/main/scala/org/openx/suanpan/persistence/" (21905 32433 0 0) "RiakPersistenceComponent.scala" "PersistenceComponent.scala" "../" "./")
+
+ ("/Users/tian.du/OpenX/suanpan-aggregation/src/main/scala/org/openx/suanpan/" (21905 32433 0 0) "streaming/" "SparkApplication.scala" "persistence/" "event/" "configuration/" "aggregation/" "../" "./")
+
+ ("/Users/tian.du/Documents/scala-practice/Functional Programming Principles in Scala by Martin Odersky/src/week5/" (21904 55463 0 0) "mergesort.scala~" "mergesort.scala" "higherOrderListFunctions.scala~" "higherOrderListFunctions.scala" "../" "./")
+
+ ("/Users/tian.du/Documents/scala-practice/FunctionalProgrammingInScala/chapter03/" (21904 52189 0 0) "List.scala~" "List.scala" "Exercise3.2.scala~" "Exercise3.2.scala" "chapter03.scala~" "chapter03.scala" "../" "./")
+
+ ("/Users/tian.du/Documents/scala-practice/Functional Programming Principles in Scala by Martin Odersky/src/lecture4_2/" (21904 52180 0 0) "Nat.scala~" "Nat.scala" "Boolean.scala~" "Boolean.scala" "../" "./")
+
+ ("/Users/tian.du/Documents/scala-practice/Functional Programming Principles in Scala by Martin Odersky/src/" (21904 49750 0 0) "week5/" "week4/" "lecture4_2/" "lecture3_3/" "lecture3_2/" "lecture3_1/" "lecture2_5/" "lecture2_3/" "lecture2_2/" "../" "./")
+
+ ("/Users/tian.du/Documents/scala-practice/Functional Programming Principles in Scala by Martin Odersky/src/week4/" (21904 33204 0 0) "exprs.scala~" "exprs.scala" "Expr.scala~" "Expr.scala" "../" "./")
+
+ ("/Users/tian.du/Documents/Note/" (21902 58494 0 0) "todo.md" "scala.org~" "scala.org" "Org-Mode.txt~" "Org-Mode.org~" "Org-Mode.org" "kernel/" "Hive/" "Emacs.org~" "Emacs.org" ".DS_Store" "#todo.md#" "../" "./")
+
+ ("/Users/tian.du/Documents/scala-practice/Functional Programming Principles in Scala by Martin Odersky/src/lecture3_3/" (21904 13068 0 0) "List.scala~" "List.scala" "../" "./")
+
+ ("/Users/tian.du/Documents/scala-practice/Functional Programming Principles in Scala by Martin Odersky/src/lecture3_2/" (21902 54562 0 0) "exceptionExample.scala~" "exceptionExample.scala" "../" "./")
+
+ ("~/OpenX/suanpan-aggregation/src/main/scala/org/openx/suanpan/event/" (21901 42974 0 0) "NtrLwesEventHandler.scala" "LwesEventHandlerComponent.scala" "HoxLwesEventHandler.scala" "EventHandlerComponent.scala" "../" "./")
+
+ ("/Users/tian.du/Documents/scala-practice/Functional Programming Principles in Scala by Martin Odersky/src/lecture3_1/" (21901 31892 0 0) "Sub.class" "Overrides.scala~" "Overrides.scala" "overrides.class" "overrides$.class" "IntSet.scala~" "IntSet.scala" "Base.class" "../" "./")
+
+ ("/Users/tian.du/OpenX/suanpan-aggregation/src/test/scala/org/openx/" (21896 31242 0 0) "suanpan/" "../" "./")
+
+ ("/Users/tian.du/OpenX/suanpan-aggregation/src/test/scala/org/" (21896 31242 0 0) "openx/" "apache/" "../" "./")
+
+ ("/Users/tian.du/OpenX/suanpan-aggregation/src/test/scala/" (21896 31242 0 0) "org/" "../" "./")
+
+ ("/Users/tian.du/OpenX/suanpan-aggregation/src/test/" (21896 31242 0 0) "scala/" "resources/" "../" "./")
+
+ ("/Users/tian.du/OpenX/suanpan-aggregation/src/main/scala/org/openx/" (21896 31242 0 0) "suanpan/" "../" "./")
+
+ ("/Users/tian.du/OpenX/suanpan-aggregation/src/main/scala/org/" (21896 31242 0 0) "openx/" "../" "./")
+
+ ("/Users/tian.du/OpenX/suanpan-aggregation/src/main/scala/" (21896 31242 0 0) "org/" "../" "./")
+
+ ("/Users/tian.du/OpenX/suanpan-aggregation/src/main/" (21896 31242 0 0) "scala/" "../" "./")
+
+ ("/Users/tian.du/OpenX/suanpan-aggregation/src/" (21896 31242 0 0) "test/" "main/" "../" "./")
+
+ ("/Users/tian.du/OpenX/suanpan-spark/" (21896 30179 0 0) "src/" "README" "pom.xml" "NEWS" "Makefile.am.local" "fw-pkgin/" "configure.ac.local" "ChangeLog" "bootstrap" "AUTHORS" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/tian.du/OpenX/" (21896 31235 0 0) "vertica-odfi-etl/" "suanpan-spark/" "suanpan-aggregation/" "slack-repos/" "slack-esf/" "RemoteSystemsTempFiles/" "ox-ox3-esf/" "ox-mergerole2" "odfi-feeds/" "lwes-java/" "hive-openx-udflib/" "grid/" "git-testing/" "eclimd.log" "delivery-adserver-java/" ".zshrc" ".project" ".metadata/" ".DS_Store" "../" "./")
+
+ ("/Users/tian.du/Documents/scala-practice/Functional Programming Principles in Scala by Martin Odersky/" (21883 8684 0 0) "src/" "bin/" ".settings/" ".project" ".classpath" ".cache" "../" "./")
+
+ ("/Users/tian.du/Documents/scala-practice/" (21898 52795 0 0) "Twitter Scala Tutorial/" "ScalaTest/" "scalactic_2.11-2.2.4.jar" "scala-practice.iml" "Scala Fundamentals LiveLessons/" "Scala Documentation/" "Programming in Scala/" "Ninety-Nine Scala Problems/" "Learning Scala Programming/" "FunctionalProgrammingInScala/" "Functional Programming Principles in Scala by Martin Odersky/" "Data Structure in Scala/" ".metadata/" ".idea/" ".DS_Store" "../" "./")
+
+ ("/Library/" (21854 4022 0 0) "Widgets/" "WebServer/" "Video/" "User Pictures/" "Updates/" "SystemProfiler/" "SystemMigration/" "StartupItems/" "Spotlight/" "Spelling/" "Speech/" "Server/" "Security/" "Scripts/" "ScriptingAdditions/" "Screen Savers/" "Sandbox/" "Ruby/" "Receipts/" "QuickTime/" "QuickLook/" "Python/" "PrivilegedHelperTools/" "Printers/" "Preferences/" "PreferencePanes/" "Perl/" "PDF Services/" "OpenDirectory/" "Modem Scripts/" "Messages/" "Managed Preferences/" "Logs/" "LaunchDaemons/" "LaunchAgents/" "Keychains/" "Keyboard Layouts/" "Java/" "iTunes/" "Internet Plug-Ins/" "Input Methods/" "Image Capture/" "Graphics/" "Google/" "Frameworks/" "Fonts/" "Filesystems/" "Extensions/" "Documentation/" "DirectoryServices/" "Dictionaries/" "Developer/" "Desktop Pictures/" "CrashPlan/" "CoreMediaIO/" "Contextual Menu Items/" "Compositions/" "Components/" "ColorSync/" "ColorPickers/" "Caches/" "Audio/" "Application Support/" ".localized" "../" "./")
+
+ ("/usr/" (21813 35126 0 0) "X11R6/" "X11/" "standalone/" "share/" "sbin/" "local/" "libexec/" "lib/" "include/" "bin/" "../" "./")
+
+ ("/Users/tian.du/Documents/Note/kernel/" (21823 65055 0 0) "../" "./")
+
+ ("/Users/" (21815 4081 0 0) "tian.du/" "Shared/" "hadoop/" "adminaccount/" ".localized" "../" "./")
+
+ ("/Users/tian.du/Documents/scala-practice/FunctionalProgrammingInScala/chapter02/" (21897 56717 0 0) "MyModule.scala" "isSorted.scala~" "isSorted.scala" "fib.scala~" "fib.scala" "example.scala~" "example.scala" "../" "./")
+
+ ("/Users/tian.du/Documents/scala-practice/FunctionalProgrammingInScala/" (21897 57949 0 0) "chapter03/" "chapter02/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
